@@ -1,26 +1,5 @@
-<a name="readme-top"></a>
+# FCC Test Suite Template
 
-<!-- TABLE OF CONTENTS -->
+**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-- [👥 Reviewers](#reviewers)
-
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 <a name="about-project">Project Review</a>
-
-**Romans's Admission Trial** project review.
-
-<!-- AUTHORS -->
-
-## 👥 Reviewers <a name="reviewers"></a>
-
-👤 **Romans S.**
-
-- GitHub: [@romans-adi](https://github.com/romans-adi/)
-- Twitter: [@obj583](https://twitter.com/obj583/)
-- LinkedIn: [Romans Špiļaks](https://www.linkedin.com/in/obj513/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
